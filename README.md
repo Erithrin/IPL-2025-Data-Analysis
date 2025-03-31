@@ -21,6 +21,15 @@ Teams and their performance.
 Points table standings.
 Match summaries and results.
 
+![image](https://github.com/user-attachments/assets/27f81e28-a63f-4270-b3f6-78c1b133893a)
+
+![image](https://github.com/user-attachments/assets/0067d94a-03c9-48b0-bdbc-5d70086cbe0a)
+
+![image](https://github.com/user-attachments/assets/c46dbb6c-72c4-4ca8-a960-19d847d2c115)
+
+
+
+
 Technical Highlights
 Utilized Power Query in Excel to transform raw web-sourced data into actionable formats.
 Ensured a seamless refresh process for up-to-date information during live use.
